@@ -21,7 +21,7 @@ INSTALL_REQUIRES = [
 ]
 
 ALT_INSTALL_REQUIRES = {
-    "opencv-python-headless": ["opencv-python", "opencv-contrib-python", "opencv-contrib-python-headless"],
+
 }
 
 
